@@ -1,0 +1,39 @@
+.app-container{
+  display: flex;
+  
+}
+.Container{
+  width: 100%;
+}
+.sidebar-height{
+  height: 700px;
+}
+.post-card{
+   margin: 20px 50px;
+}
+
+.tag-effect{
+  margin: 0px 3px;
+}
+
+.reaction{
+  width: 100%;
+  margin: 15px 0 0 0;
+  
+}
+.create{
+  width: 80%;
+  margin-top: 50px;
+  margin-left:10% ;
+
+}
+
+.heading{
+  font-size: 30px;
+  margin: 100px 0px;
+}
+
+
+.spinner-circle{
+  margin: 20% 0;
+}
